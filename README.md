@@ -9,12 +9,12 @@ The functionality of the Employee Management System is mentioned below:
 
 2. Print Patients data
 
-3. Sort by beds price
+*3. Sort by beds price*
 
 4. Sort by available beds
 
 5. Sort by name
 
-6. Sort by rating and reviews
+*6. Sort by rating and reviews*
 
 7. Print hospital of any specific city
